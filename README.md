@@ -17,4 +17,4 @@ Step 3 : Find 2D coordinates of checkerboard
 Step 4: Calibrate Camera
 
 
-##Python Code for Camera Calibration is given in next file
+##Python Code for Camera Calibration is given in calibration.py file
