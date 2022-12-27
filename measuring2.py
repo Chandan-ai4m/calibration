@@ -35,7 +35,7 @@ cv2.destroyAllWindows()
 # print(maxh)
 # Iterate through the contours and filter out the ones that are not likely to be the rounded rectangular shape
 for c in contours:
-    # Calculate the area of the contour
+    ## Calculate the area of the contour
     area = cv2.contourArea(c)
 
     # Calculate the aspect ratio of the bounding rectangle of the contour
